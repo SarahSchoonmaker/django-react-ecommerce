@@ -2,10 +2,6 @@
 
 Live Demo can be viewed at https://www.buildproshop.com/
 
-This project is from my Django + React collaboration with Brad Traversy's course: https://www.udemy.com/course/django-with-react-an-ecommerce-website/?couponCode=387F19CD4087385E87C1
-
-
-
 # Features
 * Full featured shopping cart
 * Product reviews and ratings
